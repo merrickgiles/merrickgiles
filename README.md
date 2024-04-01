@@ -1,14 +1,10 @@
 Hello
 
-My name is Merrick. I am a student interested in cognitive science. Currently, I am interested in what is going on in the mind and brain when we use language. 
+My name is Merrick. I am a student. My official course title is Honours in Psychological Science. Presently, I am interested in what is going on in the mind and brain when we use language. 
 
-  My present research is focused on the cognitive processes underlying referential communication - when people refer to an object in the world, and people uses such reference to find the object in their visual field. 
+  My current research project is focused on the cognitive processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object in their visual field. More specifically, I am investigating how perceptual factors like salience influence this process. This investigation is both empirical in that we are collecting data from human participants, and theoretical in that we are building computational models of these mental processes. 
 
-  More specifically, I am investigating how perceptual factors like salience influence this process. 
-
-  This investigation is both empirical in that we are collecting data from human participants, and theoretical in that we are building computational models of these mental processes. 
-
-  This work is being supported by the University of Melbourne, and supervised by Francis Mollica. 
+  This work is being supported by the University of Melbourne, supervised by Francis Mollica. 
 
 <!---
 merrickgiles/merrickgiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
