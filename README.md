@@ -2,7 +2,7 @@ Hello
 
 My name is Merrick. I am a student interested in cognitive science. Currently, I am interested in what is going on in the mind and brain when we use language. 
 
-My present research is focused on the cognitive processes underlying referential communication - when a person refers to an object in the world, and another person uses their reference to locate the same object in space. 
+My present research is focused on the cognitive processes underlying referential communication - when a person a refers to an object in the world, and a person b uses their reference to locate the object in their visual field. 
 
 More specifically, I am investigating how perceptual factors like salience influence this process. 
 
