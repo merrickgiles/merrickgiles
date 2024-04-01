@@ -2,7 +2,7 @@ Hello
 
 My name is Merrick. I am a student. My official course title is Honours in Psychological Science. Presently, I am interested in what is going on in the mind and brain when we use language. 
 
-  My current research project is focused on the cognitive processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object in their visual field. More specifically, I am investigating how perceptual factors like salience influence this process. This investigation is both empirical in that we are collecting data from human participants, and theoretical in that we are building computational models of these mental processes. 
+  My current research project is focused on the cognitive processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object. More specifically, I am investigating how perceptual factors like salience influence this process. This investigation is both empirical in that we are collecting data from human participants, and theoretical in that we are building computational models of these mental processes. 
 
   This work is being supported by the University of Melbourne, supervised by Francis Mollica. 
 
