@@ -4,7 +4,7 @@ My name is Merrick. I am an honours student in psychological science; I am inter
 
 My present year-long research project is focused on the cognitive processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object. More specifically, I am investigating how visual and auditory perception influences how, when and why people use adjectives. This investigation is both empirical and theoretical.
 
-  This work is being supported by the University of Melbourne, and supervised by Francis Mollica. 
+  This work is being supported by the University of Melbourne, and supervised by Frank Mollica. 
 
 <!---
 merrickgiles/merrickgiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
