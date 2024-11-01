@@ -4,7 +4,9 @@ My name is Merrick. I am interested in how language works, and what is going on 
 
 I have just completed a year-long research project focused on the perceptual and social processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object. This project was supervised by Dr. Francis Mollica. 
 
-Further experiments are currently under way to continue this line of research. 
+This line of research is ongoing, with experiments presently under way. I continue to work with Francis Mollica.
+
+:) 
 
 <!---
 merrickgiles/merrickgiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
