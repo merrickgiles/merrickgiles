@@ -1,10 +1,10 @@
 Hello
 
-My name is Merrick. I am an honours student in psychological science; I am interested in what is going on in the mind when we use language. 
+My name is Merrick. I am interested in how language works, and what is going on in the mind when we use language. 
 
-My present year-long research project is focused on the cognitive processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object. More specifically, I am investigating how visual and auditory perception influences how, when and why people use adjectives. This investigation is both empirical and theoretical.
+I have just completed a year-long research project focused on the perceptual and social processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object. This project was supervised by Dr. Francis Mollica. 
 
-This work is being supervised by Frank Mollica. 
+Presently, myself and Francis Mollica are conducting further experiments to continue this line of work. 
 
 <!---
 merrickgiles/merrickgiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
