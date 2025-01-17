@@ -1,10 +1,10 @@
 Hello
 
-My name is Merrick. I am a PhD candidate in cognitive science at the University of Melbourne. I'm interested in many topics, but for now I am focused on exploring how language works, and what is going on in the mind when we use language. 
+My name is Merrick. 
 
-I have just completed a year-long research project focused on the perceptual and social processes underlying referential communication - when speakers refer to an object in the world, and listeners use this reference to find the object. This project was supervised by Dr. Francis Mollica. 
+I am a PhD candidate in cognitive science at the University of Melbourne supervised primarily by Dr. Frank Mollica, and co-supervised by Prof. Andrew Perfors. Broadly, I investigate how people invent and deploy successful cognitive strategies, and how people flexibly adapt these strategies to achieve their goals under environmental constraints. Importantly, I also investigate how people transmit the most successful strategies socially and pedagogically, driving cumulative cultural evolution.
 
-Dr. Mollica and myself are presently following up this project with further experiments, which will be completed early in 2025.
+I also research language production and evolution - how people formulate their thoughts into expressions, and how the patterns of such formulations change over time.
 
 :) 
 
