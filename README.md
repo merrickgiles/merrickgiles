@@ -1,10 +1,10 @@
-Hello
+hello
 
-My name is Merrick. 
+My name is merrick. 
 
-I am a PhD candidate in cognitive science at the University of Melbourne supervised primarily by Dr. Frank Mollica, and co-supervised by Prof. Andrew Perfors. Broadly, I investigate how people invent and deploy successful cognitive strategies, and how people flexibly adapt these strategies to achieve their goals under environmental constraints. Importantly, I also investigate how people transmit the most successful strategies socially and pedagogically, driving cumulative cultural evolution.
+I am a PhD candidate in cognitive science at the University of Melbourne supervised by Dr. Frank Mollica and Prof. Andrew Perfors. I am using bayesian cognitive modelling, information theory, and empirical methods to investigate how agents learn strategies that are adapted to their environment and help them achieve their goals, and how they transmit these strategies to others, driving cultural evolution. 
 
-I also research language production and evolution - how people formulate their thoughts into expressions, and how the patterns of such formulations change over time.
+a second strand of my research investigates language production -- how people formulate their thoughts into linguistic expressions. 
 
 :) 
 
