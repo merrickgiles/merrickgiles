@@ -1,6 +1,4 @@
-hello
-
-My name is merrick. 
+Hello 
 
 I am a PhD candidate in cognitive science at the University of Melbourne supervised by Dr. Frank Mollica and Prof. Andrew Perfors. We are using bayesian cognitive modelling, information theory, and behavioural experiments to investigate the human learning process as adapted to cognitive and environmental constraints. We also investigate how learned actions are transmitted to others, driving cultural and linguistic evolution. 
 
