@@ -1,6 +1,6 @@
 Hello 
 
-I am a PhD candidate in brain and cognitive sciences at the University of Melbourne supervised by Dr. Francis Mollica and Prof. Andrew Perfors. We build probabilistic models of human learning and communication as adapted to cognitive and environmental constraints. We also investigate how learned actions are transmitted to others, driving cultural and linguistic evolution. 
+I am a PhD candidate in cognitive science at the University of Melbourne. I collect behavioural data and build computational models of human learning, strategy, and communication.
 
 <!---
 merrickgiles/merrickgiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
